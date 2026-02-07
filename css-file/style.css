@@ -325,7 +325,7 @@ footer .copyright:hover {
   margin: 0 auto;
   background:
     linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("./image-icons/hero-image.jpg") center / cover no-repeat;
+    url("../assets/images/hero-image.jpg") center / cover no-repeat;
 
   display: flex;
   flex-direction: column;
@@ -410,7 +410,7 @@ footer .copyright:hover {
   margin-bottom: 30px;
   font-weight: 900;
   text-transform: uppercase;
-  background: url("./image-icons/text-background.jpg");
+  background: url("../assets/images/text-background.jpg");
   background-clip: text;
   background-size: cover;
   color: transparent;
@@ -657,6 +657,14 @@ footer .copyright:hover {
   background-color: var(--color-white);
   color: var(--color-dark);
   border: 1px solid var(--color-dark);
+}
+
+.view-all-products {
+  margin-top: 20px;
+  font-size: 3.275rem;
+  font-weight: 800;
+  color: var(--text-primary);
+  text-align: center;
 }
 
 /* ============== main content product ============== */

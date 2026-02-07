@@ -39,115 +39,116 @@ const itemContainer = document.querySelector(".product-section");
 
 const items = [
   {
-    image: "./image-icons/jens decathlons jacket.avif",
+    image: "./assets/images/jens decathlons jacket.avif",
     name: "Jens Jecathlons Jacket",
     price: "$299.99",
-    favorite: "./image-icons/icons-folder/heart.png",
+    favorite: "./assets/icons/icon-set/heart.png",
   },
 
   {
-    image: "./image-icons/ladies casual coat.webp",
+    image: "./assets/images/ladies casual coat.webp",
     name: "Ladies Casual Coat",
     price: "$129.99",
-    favorite: "./image-icons/icons-folder/heart.png",
+    favorite: "./assets/icons/icon-set/heart.png",
   },
 
   {
-    image: "./image-icons/t-shirt.webp",
+    image: "./assets/images/t-shirt.webp",
     name: "Ladies T-shirt",
     price: "$29.99",
-    favorite: "./image-icons/icons-folder/heart.png",
+    favorite: "./assets/icons/icon-set/heart.png",
   },
 
   {
-    image: "./image-icons/ladies-skirts.webp",
+    image: "./assets/images/ladies-skirts.webp",
     name: "ladies Skirt",
     price: "$79.99",
-    favorite: "./image-icons/icons-folder/heart.png",
+    favorite: "./assets/icons/icon-set/heart.png",
   },
 
   {
-    image: "./image-icons/jens-jeans.webp",
+    image: "./assets/images/jens-jeans.webp",
     name: "Mens Jeans",
     price: "$59.99",
-    favorite: "./image-icons/icons-folder/heart.png",
+    favorite: "./assets/icons/icon-set/heart.png",
   },
 
   {
-    image: "./image-icons/top-ware.webp",
+    image: "./assets/images/top-ware.webp",
     name: "Ladies Topware",
     price: "$39.99",
-    favorite: "./image-icons/icons-folder/heart.png",
+    favorite: "./assets/icons/icon-set/heart.png",
   },
 
   {
-    image: "./image-icons/mens t-shirts.webp",
+    image: "./assets/images/mens t-shirts.webp",
     name: "Mens T-shirt",
     price: "$19.99",
-    favorite: "./image-icons/icons-folder/heart.png",
+    favorite: "./assets/icons/icon-set/heart.png",
   },
 
   {
-    image: "./image-icons/mens-hoodi.webp",
+    image: "./assets/images/mens-hoodi.webp",
     name: "Mens Hoodi",
     price: "$39.99",
-    favorite: "./image-icons/icons-folder/heart.png",
+    favorite: "./assets/icons/icon-set/heart.png",
   },
 
   {
-    image: "./image-icons/mens-sweeter.jpg",
+    image: "./assets/images/mens-sweeter.jpg",
     name: "Mens Sweeter",
     price: "$44.99",
-    favorite: "./image-icons/icons-folder/heart.png",
+    favorite: "./assets/icons/icon-set/heart.png",
   },
 
   {
-    image: "./image-icons/mens-leather-jacket.webp",
+    image: "./assets/images/mens-leather-jacket.webp",
     name: "Mens Jeather Jacket",
     price: "$229.99",
-    favorite: "./image-icons/icons-folder/heart.png",
+    favorite: "./assets/icons/icon-set/heart.png",
   },
 
   {
-    image: "./image-icons/ladies-sweeter.jpg",
+    image: "./assets/images/ladies-sweeter.jpg",
     name: "ladies Sweeter",
     price: "$79.99",
-    favorite: "./image-icons/icons-folder/heart.png",
+    favorite: "./assets/icons/icon-set/heart.png",
   },
 
   {
-    image: "./image-icons/mens-suede-shoe.webp",
+    image: "./assets/images/mens-suede-shoe.webp",
     name: "Mens Suedue Shoe",
     price: "$89.99",
-    favorite: "./image-icons/icons-folder/heart.png",
+    favorite: "./assets/icons/icon-set/heart.png",
   },
 
   {
-    image: "./image-icons/mens-shorts.webp",
+    image: "./assets/images/mens-shorts.webp",
     name: "Mens short",
     price: "$39.99",
-    favorite: "./image-icons/icons-folder/heart.png",
+    favorite: "./assets/icons/icon-set/heart.png",
   },
 
   {
-    image: "./image-icons/mens-partyware-shoe.webp",
+    image: "./assets/images/mens-partyware-shoe.webp",
     name: "Mens Partyware Shoe",
     price: "$199.99",
-    favorite: "./image-icons/icons-folder/heart.png",
+    favorite: "./assets/icons/icon-set/heart.png",
   },
 
   {
-    image: "./image-icons/Cheyanne - Elegant cashmere sweater for women.webp",
+    image:
+      "./assets/images/Cheyanne - Elegant cashmere sweater for women.webp",
     name: "Cheyanne - Elegant cashmere sweater for women",
     price: "$129.99",
-    favorite: "./image-icons/icons-folder/heart.png",
+    favorite: "./assets/icons/icon-set/heart.png",
   },
 
   {
-    image: "./image-icons/Franca – Refined midi dress with classic cut.webp",
+    image: "./assets/images/Franca – Refined midi dress with classic cut.webp",
     name: "Franca – Refined midi dress with classic cut",
     price: "$159.99",
-    favorite: "./image-icons/icons-folder/heart.png",
+    favorite: "./assets/icons/icon-set/heart.png",
   },
 ];
 
